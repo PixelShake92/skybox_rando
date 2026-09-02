@@ -58,7 +58,7 @@ data_reference_syms_files = [ "BanjoRecompSyms/bk.us.rev0.datasyms.toml", "Banjo
 # Additional files to include in the mod.
 additional_files = [ "thumb.png" ]
 
-# Per stage sky selection. Option order must match sky_source_maps in src/skybox_rando.c.
+# Per stage sky selection. Order matches skybox_rando.c.
 
 [[manifest.config_options]]
 id = "sky_sm"

@@ -38,11 +38,12 @@ SkyStage sky_stages[SKY_STAGE_COUNT] = {
     {MAP_2_MM_MUMBOS_MOUNTAIN,       "sky_mm"},
     {MAP_C_MM_TICKERS_TOWER,         "sky_tickers"},
     {MAP_7_TTC_TREASURE_TROVE_COVE,  "sky_ttc"},
-    {MAP_12_GV_GOBIS_VALLEY,         "sky_gv"},
-    {MAP_1B_MMM_MAD_MONSTER_MANSION, "sky_mmm"},
     {MAP_27_FP_FREEZEEZY_PEAK,       "sky_fp"},
-    {MAP_31_RBB_RUSTY_BUCKET_BAY,    "sky_rbb"},
-    {MAP_75_GL_MMM_LOBBY,            "sky_lobby"}
+    {MAP_12_GV_GOBIS_VALLEY,         "sky_gv"},
+    {MAP_75_GL_MMM_LOBBY,            "sky_lobby"},
+    {MAP_1B_MMM_MAD_MONSTER_MANSION, "sky_mmm"},
+    {MAP_31_RBB_RUSTY_BUCKET_BAY,    "sky_rbb"}
+
 };
 
 // Maps whose sky rows can be borrowed. Order matches the selection options after
